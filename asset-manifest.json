@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SQT/static/css/main.032e58da.chunk.css",
+    "main.js": "/SQT/static/js/main.fed57927.chunk.js",
+    "main.js.map": "/SQT/static/js/main.fed57927.chunk.js.map",
+    "runtime-main.js": "/SQT/static/js/runtime-main.c26feb51.js",
+    "runtime-main.js.map": "/SQT/static/js/runtime-main.c26feb51.js.map",
+    "static/js/2.4d103f35.chunk.js": "/SQT/static/js/2.4d103f35.chunk.js",
+    "static/js/2.4d103f35.chunk.js.map": "/SQT/static/js/2.4d103f35.chunk.js.map",
+    "static/js/3.fdd59215.chunk.js": "/SQT/static/js/3.fdd59215.chunk.js",
+    "static/js/3.fdd59215.chunk.js.map": "/SQT/static/js/3.fdd59215.chunk.js.map",
+    "index.html": "/SQT/index.html",
+    "static/css/main.032e58da.chunk.css.map": "/SQT/static/css/main.032e58da.chunk.css.map",
+    "static/js/2.4d103f35.chunk.js.LICENSE.txt": "/SQT/static/js/2.4d103f35.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/SQT/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c26feb51.js",
+    "static/js/2.4d103f35.chunk.js",
+    "static/css/main.032e58da.chunk.css",
+    "static/js/main.fed57927.chunk.js"
+  ]
+}
